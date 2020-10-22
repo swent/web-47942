@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c25764cb-ece3-4346-94a5-acaf50c887f3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.npmrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/aurelia.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/generators/attribute.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/generators/attribute.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/generators/binding-behavior.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/generators/binding-behavior.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/generators/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/generators/component.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/generators/element.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/generators/element.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/generators/generator.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/generators/generator.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/generators/task.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/generators/task.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/generators/value-converter.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/generators/value-converter.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/tasks/build.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/tasks/build.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/tasks/jest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/tasks/jest.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/tasks/run.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/tasks/run.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/tasks/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aurelia_project/tasks/test.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/environment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/environment.production.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/index.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/jest-pretest.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/unit/app.spec.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/app.html" />
+        <option value="$PROJECT_DIR$/src/app.ts" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jEBZvkauGDC4NsXzNc7B8aqgkz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34989995" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.2998666" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="C:\Users\LutzHeissenberger\Desktop\New folder\web-47942\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Compound.start &amp; open">
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="open browser" type="JavascriptDebugType" />
+      <toRun name="start dev-server" type="js.build_tools.npm" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start &amp; open" type="CompoundRunConfigurationType">
+      <toRun name="open browser" type="JavascriptDebugType" />
+      <toRun name="start dev-server" type="js.build_tools.npm" />
+      <method v="2" />
+    </configuration>
+    <configuration name="open browser" type="JavascriptDebugType" uri="http://localhost:8080">
+      <method v="2" />
+    </configuration>
+    <configuration name="start dev-server" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Compound.start &amp; open" />
+      <item itemvalue="JavaScript Debug.open browser" />
+      <item itemvalue="npm.start dev-server" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c25764cb-ece3-4346-94a5-acaf50c887f3" name="Default Changelist" comment="" />
+      <created>1603359431601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603359431601</updated>
+      <workItem from="1603359449040" duration="1423000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="991" y="499" width="1089" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603359971843">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state x="991" y="499" width="1089" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603359971843" />
+    <state width="3029" height="607" key="GridCell.Tab.0.bottom" timestamp="1603360039451">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3029" height="607" key="GridCell.Tab.0.bottom/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360039451" />
+    <state width="3029" height="607" key="GridCell.Tab.0.center" timestamp="1603360039451">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3029" height="607" key="GridCell.Tab.0.center/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360039451" />
+    <state width="3029" height="607" key="GridCell.Tab.0.left" timestamp="1603360039451">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3029" height="607" key="GridCell.Tab.0.left/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360039451" />
+    <state width="3029" height="607" key="GridCell.Tab.0.right" timestamp="1603360039451">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3029" height="607" key="GridCell.Tab.0.right/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360039451" />
+    <state width="3029" height="607" key="GridCell.Tab.1.bottom" timestamp="1603360055641">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3029" height="607" key="GridCell.Tab.1.bottom/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360055641" />
+    <state width="3029" height="607" key="GridCell.Tab.1.center" timestamp="1603360055641">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3029" height="607" key="GridCell.Tab.1.center/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360055641" />
+    <state width="3029" height="607" key="GridCell.Tab.1.left" timestamp="1603360055641">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3029" height="607" key="GridCell.Tab.1.left/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360055641" />
+    <state width="3029" height="607" key="GridCell.Tab.1.right" timestamp="1603360055641">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3029" height="607" key="GridCell.Tab.1.right/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360055641" />
+    <state width="3029" height="607" key="GridCell.Tab.2.bottom" timestamp="1603360039451">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3029" height="607" key="GridCell.Tab.2.bottom/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360039451" />
+    <state width="3029" height="607" key="GridCell.Tab.2.center" timestamp="1603360039451">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3029" height="607" key="GridCell.Tab.2.center/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360039451" />
+    <state width="3029" height="607" key="GridCell.Tab.2.left" timestamp="1603360039451">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3029" height="607" key="GridCell.Tab.2.left/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360039451" />
+    <state width="3029" height="607" key="GridCell.Tab.2.right" timestamp="1603360039451">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="3029" height="607" key="GridCell.Tab.2.right/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360039451" />
+    <state width="0" height="0" key="GridCell.Tab.3.bottom" timestamp="1603360026247">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="0" height="0" key="GridCell.Tab.3.bottom/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360026247" />
+    <state width="0" height="0" key="GridCell.Tab.3.center" timestamp="1603360026247">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="0" height="0" key="GridCell.Tab.3.center/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360026247" />
+    <state width="0" height="0" key="GridCell.Tab.3.left" timestamp="1603360026246">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="0" height="0" key="GridCell.Tab.3.left/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360026246" />
+    <state width="0" height="0" key="GridCell.Tab.3.right" timestamp="1603360026247">
+      <screen x="0" y="0" width="3072" height="1688" />
+    </state>
+    <state width="0" height="0" key="GridCell.Tab.3.right/-3000.156.1500.975/0.0.3072.1688@0.0.3072.1688" timestamp="1603360026247" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/app.ts</url>
+          <line>30</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
